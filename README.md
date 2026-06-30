@@ -62,7 +62,7 @@ We’ve released the icon pack either under MIT or the [Good Boy License](https:
 
 No tattoos!
 
-## More from Icons8
+## Beyond the font
 
 Line Awesome is a free slice of [Icons8](https://icons8.com). For the full picture:
 
