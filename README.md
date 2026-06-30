@@ -3,7 +3,7 @@ Line Awesome is a free alternative for Font Awesome 5.11.2.
 It consists of ~1380 flat icons that offer complete coverage of the main Font Awesome icon set.
 
 This icon-font is based off of the [Icons8 Windows 10 style](https://icons8.com/icons/windows), 
-which consists of over 4,000 icons, so be sure to check that out if you need more specific icons.
+which consists of over 9,000 icons, so be sure to check that out if you need more specific icons.
 
 Check out a [live preview](https://icons8.com/line-awesome) of the Line Awesome.
 
@@ -61,6 +61,14 @@ We’ve released the icon pack either under MIT or the [Good Boy License](https:
 * Fork
 
 No tattoos!
+
+## More from Icons8
+
+Line Awesome is a free slice of [Icons8](https://icons8.com). For the full picture:
+
+- **[Line Awesome](https://icons8.com/line-awesome)** — browse and search all ~1,380 icons in the font
+- **[1.5M+ icons](https://icons8.com/icons)** — 132 styles, including the [Windows 10 set](https://icons8.com/icons/windows) this font is built from
+- **[Illustrations](https://icons8.com/illustrations)** — when line icons aren't enough: 108,000+ illustrations in 338 styles, flat to 3D
 
 ## Credits
 
